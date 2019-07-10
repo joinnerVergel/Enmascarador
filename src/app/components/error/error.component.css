@@ -1,0 +1,49 @@
+.error{
+    padding: 60px 0 0 0;
+    border-radius: 10px;
+    background: rgba(255,255,255,0.5) url('../../../assets/img/Logo-movistar-desktop.svg') no-repeat center 10px/240px;
+    margin: 30px auto;
+    /* border: 1px solid #aaa; */
+    /* width: 500px; */
+    /* box-shadow: -5px 7px #777; */
+}
+
+.img{
+    background: url('../../../assets/img/error-tv.svg') no-repeat center 0px/240px;
+    height: 150px;
+    margin: 20px;
+    position: relative;
+}
+.text{
+ color: #fff;
+ font-size: 20px;
+}
+.text span{
+    display: block;
+    text-align: justify;
+    color: #50535a;
+    padding: 0 40px;
+}
+
+.btn-success{
+    display: table;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.buttons{
+    margin: 20px auto;
+    width: 70%;
+}
+
+.buttons button{
+    margin: 20px 0 0;
+    width: 95%;
+    
+}
+
+label.tittle {
+    color: #e9426d;
+    display: block;
+    text-align: center;
+} 
